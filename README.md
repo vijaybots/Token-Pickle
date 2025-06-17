@@ -47,7 +47,7 @@ git clone https://github.com/YOUR_USERNAME/Token-Pickle
 ### 4. Install Python Requirements
 
 ```bash
-pip install -r requirements.txt
+pip install google-auth google-auth-oauthlib google-auth-httplib2
 ```
 
 ---
